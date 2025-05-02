@@ -18,6 +18,7 @@ A fully serverless video streaming platform built on AWS. The application allows
 
 ## 🧠 Architecture Overview
 
+![AWS](https://github.com/user-attachments/assets/cccd5a7c-5808-4bcd-8bc3-2ce8dcf5dbb7)
 
 
 ---
