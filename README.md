@@ -158,15 +158,9 @@ Four endpoints were created to expose the Lambda functions as RESTful APIs:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
-> Include screenshots or a demo GIF here if available to show the app interface and API usage.
-
----
-
-## 📄 License
-
-MIT License - [Your Name or Organization]
+> 
 
 ---
 
