@@ -159,7 +159,20 @@ Four endpoints were created to expose the Lambda functions as RESTful APIs:
 ---
 
 ## 📸 Screenshots 
-
+### S3 bucket for storage
+![S3_upload](Screenshots/S3_Upload.png)
+### S3 bucket for hosting
+![S3_frontend](Screenshots/S3_frontend.png)
+### DynamoDB table for storing metadata
+![DynamoDB](Screenshots/DynamoDB.png)
+### Lambda Functions
+![incrementViews](Screenshots/incrementViews.png)
+![GeneratePreSignedUrl](Screenshots/GeneratePreSignedUrl.png)
+![listVideos](Screenshots/listVideos.png)
+![uploadMetadata](Screenshots/uploadMetadata.png)
+### Website
+![Website_1](Screenshots/Website_1.png)
+![Wensite_2](Screenshots/Wensite_2.png)
 
 ---
 
