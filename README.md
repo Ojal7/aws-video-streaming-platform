@@ -160,17 +160,6 @@ Four endpoints were created to expose the Lambda functions as RESTful APIs:
 
 ## 📸 Screenshots 
 
-> <img width="1470" alt="Screenshot 2025-05-05 at 12 16 05 PM" src="https://github.com/user-attachments/assets/5c0cb34e-9528-445f-b2c0-0a5121724e75" />
-<img width="1470" alt="Screenshot 2025-05-05 at 12 15 35 PM" src="https://github.com/user-attachments/assets/ecca5188-2e7d-489d-89d2-841fc61bbb82" />
-<img width="1470" alt="Screenshot 2025-05-05 at 12 15 18 PM" src="https://github.com/user-attachments/assets/4337c89c-7bf0-4207-ab26-63610b2dfe0f" />
-<img width="1470" alt="Screenshot 2025-05-05 at 12 15 05 PM" src="https://github.com/user-attachments/assets/cb2277ef-6a8c-463a-b3cb-a51c0725298f" />
-<img width="1470" alt="Screenshot 2025-05-05 at 12 14 55 PM" src="https://github.com/user-attachments/assets/7c7908d0-d0e1-449f-9468-1f669e1b5524" />
-<img width="1470" alt="Screenshot 2025-05-05 at 12 16 31 PM" src="https://github.com/user-attachments/assets/cd6860ca-d866-4dff-8717-ec80b7415b07" />
-<img width="1470" alt="Screenshot 2025-05-05 at 12 16 18 PM" src="https://github.com/user-attachments/assets/e5b8abee-afa6-4748-a682-e87420746864" />
-<img width="1470" alt="Screenshot 2025-05-03 at 9 43 24 PM" src="https://github.com/user-attachments/assets/c4873532-2c22-409c-8e89-37ab72766674" />
-<img width="1470" alt="Screenshot 2025-05-03 at 9 43 09 PM" src="https://github.com/user-attachments/assets/8c9f3a5a-7c31-4161-a969-7045fdbe04fa" />
-
-
 
 ---
 
